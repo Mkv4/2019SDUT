@@ -1,5 +1,13 @@
 <?php
-Key = "R2l0aHViQFNIWU0=";  //decode
+$Key = "R2l0aHViQFNIWU0=";  //decode
+/*
+#email_conf
+email_host=smtp.163.com
+email_sender=sdut2019@163.com
+email_pwd=base64_decode($Key)
+Wechat=phage07
+*/
+
 /*
   慕清和者，左相慕文远次子，兵部侍郎慕清平之弟也。其母早逝，父有贤名，兄有将才，唯和自幼顽劣。
   崇宁四年五月，天阑太守谢怀瑾长女婉以殿前武试第一请任天阑守将，和见之，心有所悟。
